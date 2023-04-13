@@ -10,5 +10,5 @@ main()
 	
 	f=c*9/5+32;
 	
-	printf("fehrenheit=%.2f",f);
+	printf("Fahrenheit=%.2f",f);
 }
