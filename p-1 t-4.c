@@ -23,5 +23,5 @@ main()
 	
 	gs=bs+hra+da+ta;
 	
-	printf("gross salary=%d",gs);
+	printf("Gross salary=%d",gs);
 }
